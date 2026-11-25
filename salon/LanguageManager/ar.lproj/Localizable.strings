@@ -1,0 +1,635 @@
+/* 
+  Localizable.strings
+  salon
+
+  Created by AL Badr  on 5/19/20.
+  Copyright © 2020 ALBadr. All rights reserved.
+*/
+
+"Show All" = "مشاهدة الكل";
+
+"Beauty Specialists" = "أخصائي تجميل";
+
+"Our services" = "خدماتنا";
+
+"Articles" = "المقالات";
+
+"Welcome" = "مرحبًا";
+
+"Login" = "تسحيل الدخول";
+
+"Profile" = "الملف الشخصي";
+
+"My orders" = "طلباتي";
+
+"Chats" = "المحادثات";
+
+"Notifications" = "الإشعارات";
+
+"Verification request" = "طلب توثيق الحساب";
+
+"Account statement" = "كشف الحساب";
+
+"Favourites" = "المفضلة";
+
+"Saved locations" = "المواقع المحفوطة";
+
+"Terms and conditions" = "الشروط والأحكام";
+
+"About us" = "من نحن";
+
+"Contact us" = "اتصل بنا";
+
+"Logout" = "تسجيل الخروج";
+
+"Home" = "الرئيسية";
+
+"Balances" = "الأرصدة";
+
+"Wallet" = "المحفظة";
+
+"Add national identity or residence image" = "اضف صورة الهوية او صورة الإقامة";
+
+"Send" = "إرسال";
+
+"Total balance:" = "الرصيد الكلي:";
+
+"Total points:" = "النقاط الكلية:";
+
+"Point" = "نقطة";
+
+"Located Address" = "العنوان المحدد";
+
+"Choose" = "اختيار";
+
+"Email" = "البريد الإلكتروني";
+
+"Phone number" = "رقم الجوال";
+
+"Address" = "العنوان";
+
+"My Wallet" = "محفظتي";
+
+"My Points" = "نقاطي";
+
+////////////////////////////////////////////////////////////
+
+"Current orders" = "الطلبات الحالية";
+
+"Previous orders" = "الطلبات السابقة";
+
+"No Orders yet." = "لا يوجد طلبات حتى الأن";
+
+"Convert to points" = "تحويل إلى نقاط";
+
+"Please note that the Riyal is equal to 34 points." = "برجاء العلم أن ١ ريال يساوي ٣٤ نقطة";
+
+"CONFIRM" = "تأكيد";
+
+"CANCEL" = "إلغاء";
+
+"BACK" = "عودة";
+
+"SEND" = "إرسال";
+
+"Refund" = "استرجاع الرصيد";
+
+"INFORM MANAGEMENT" = "إبلاغ الإدارة";
+
+"CONVINCED" = "مقتنع";
+
+"Reasons for rejecting the order" = "أسباب رفض الطلب";
+
+"Choose another date" = "تحديد موعد أخر";
+
+"Inform Management" = "إبلاغ الإدارة";
+
+"Rate" = "تقييم";
+
+"Rate and add comment" = "تقييم وإضافة تعليق";
+
+"Choose Rate" = "اختر التقييم";
+
+"Add Comment" = "اضف تعليق";
+
+"No Messages yet." = "لا يوجد رسائل حتى الأن";
+
+"Empty Favourites" = "المفضلة فارغة";
+
+"No Notifications yet." = "لا يوجد إشعارات حتى الأن";
+
+"No Places yet." = "لا يوجد أماكن حتى الأن";
+
+"No Data yet." = "لا يوجد بيانات حتى الأن";
+
+"My current balance:" = "رصيدي الحالي:";
+
+"SAR" = "ريال";
+
+"Type a message" = "اكتب رسالة";
+
+"Enter your report" = "اكتب الشكوى";
+
+"How do you want to refund?" = "اكتب طريقة استرجاع الرصيد";
+
+////////////////////////////////////////////////////////////
+
+"Choose City" = "اختر المدينة";
+
+"Total" = "الإجمالي";
+
+"This service is provided to women, and a woman is required to be presented at home. In the absence of a woman at home, we apologize for providing the service." = "هذه الخدمة مقدمة للنساء ويلزم تواجد سيدة بالمنزل. في حالة عدم وجود سيدة بالمنزل نعتذر عن تقديم الخدمة.";
+
+"Next" = "التالي";
+
+"Add to reservation" = "اضف للحجز";
+
+"VAT" = "ضريبة القيمة المضافة";
+
+"Total after VAT" = "الإجمالي بعد الضريبة";
+
+"Tax Number" = "الرقم الضريبي";
+
+"Do you have coupon?" = "هل تملك كوبون خصم؟";
+
+"Electronic Payment" = "دفع إلكتروني";
+
+"Bank Transfer" = "تجويل بنكي";
+
+"Pay When The Service Provider Arrives" = "دفع عند وصول مقدم الخدمة";
+
+"Pay In Points" = "دفع بالنقاط";
+
+"Pay in points" = "دفع بالنقاط";
+
+"Reservation completed" = "تم إكمال الحجز";
+
+"Go to my orders" = "اذهب إلى طلباتي";
+
+"Add the bank transfer image" = "اضف صورة التحويل البنكي";
+
+"Pay on delivery" = "دفع عند الوصول";
+
+"Tax number" = "الرقم الضريبي";
+
+"We will add" = "سبتم إضافة";
+
+"to your order" = "إلى الحجز";
+
+"Proceed" = "مواصلة";
+
+///////////////////////////////////////////////////////////////
+
+"Details and Ratings" = "التفاصيل والتقييمات";
+
+"Clients Comments" = "تعليقات العملاء";
+
+"Completed Services" = "الخدمات المكتملة";
+
+"Details" = "التفاصيل";
+
+"Work areas" = "أماكن تقديم الخدمات";
+
+"Certified from saloon/institute" = "معتمد من معهد/صالون";
+
+"Services" = "الخدمات";
+
+"No Comments yet." = "لا يوجد تعليقات";
+
+"My current balance:" = "رصيدي الحالي:";
+
+"Pay the due" = "دفع المستحق";
+
+"PAY THE DUE" = "دفع المستحق";
+
+"Request the due" = "طلب المستحق";
+
+"Total receivables:" = "إجمالي المستحقات";
+
+"Confirm receipt of payment?" = "تأكيد استلام المبلغ؟";
+
+"Rejection Reasons" = "أسباب الرفض";
+
+"CONFIRM AND RATE CLIENT" = "تأكيد وتقييم العميل";
+
+"The amount received from the client" = "المبلغ المستلم من العميل";
+
+"Required amount:" = "المبلغ المطلوب:";
+
+"Amount" = "المبلغ";
+
+"Suggest other appointments" = "اقتراح مواعيد أخرى";
+
+"ADD" = "اضف";
+
+"HH" = "س";
+
+"MM" = "د";
+
+"AM" = "ص";
+
+"PM" = "م";
+
+///////////////////////////////////////////////////////////////
+
+"My info" = "بياناتي";
+
+"Client" = "عميل";
+
+"Service provider" = "مقدم خدمة";
+
+"Providers comments" = "تعليقات مقدمي الخدمة";
+
+"Remember me?" = "تذكرني؟";
+
+"Forget Password" = "نسيت كلمة المرور";
+
+"Create Account" = "إنشاء حساب";
+
+"Activate" = "تفعيل";
+
+"Enter code sent to your email" = "ادخل الكود الذي تم إرساله إلى بريدك الإلكتروني";
+
+"SAVE" = "حفظ";
+
+"Reset code will be sent to your email" = "سيتم ارسال كود الاسترجاع إلى بريدك الإلكتروني";
+
+"Serial number" = "الرقم التسلسلي";
+
+"Add profile photo" = "اضف صورة شخصية";
+
+"Add national ID or residence image" = "اضف صورة الهوية أو صورة الإقامة";
+
+"Add image or video" = "اضف صورة أو فيديو";
+
+"About services" = "نبذة عن الخدمات التي تقدمها";
+
+"Choose your work districts" = "اختر المناطق التي تؤدي بها الخدمة";
+
+"The Services you provide" = "الخدمات التي تقدمها";
+
+"If you work for a woman's salon or have a certificate from a verified institute" = "إذا كنت تعمل في صالون نسائي أو لديك شهادة من معهد معتمد";
+
+"Copy of certificate" = "صورة من الشهادة";
+
+"Save" = "حفظ";
+
+"Change Password" = "تغيير كلمة المرور";
+
+"Create" = "إنشاء";
+
+"Agree to All" = "أوافق على جميع";
+
+"Terms And Conditions" = "الشروط والأحكام";
+
+///////////////////////////////////////////////////////////////
+
+"Order Number:" = "رقم الطلب:";
+"Service date:" = "تاريخ الخدمة:";
+"Required amount:" = "المبلغ المطلوب:";
+"Paid amount:" = "المبلغ المدفوع:";
+"Total Service:" = "إجمالي الخدمات:";
+"Value added:" = "القيمة المضافة:";
+"Commission:" = "العمولة:";
+"Remaining balance:" = "الرصيد المتبقى:";
+"Deserved amount:" = "المبلغ المستحق:";
+"Payment type:" = "طريقة الدفع:";
+"REQUEST DUE" = "طلب المستحق";
+"Order status:" = "حالة الطلب:";
+"Refund amount:" = "المبلغ المسترد";
+"REFUND" = "استرجاع الرصيد";
+"CONVERT TO POINTS" = "تحويل إلى نقاط";
+"Payment total:" = "إجمالى الدفع:";
+"Points earned:" = "النقاط المكتسبة";
+"Statement:" = "الحالة:";
+
+"Total:" = "الإجمالي:";
+
+
+"Order number:" = "رقم الطلب:";
+"Order status" = "حالة الطلب";
+"Service:" = "الخدمات:";
+"Address:" = "العنوان:";
+"Service date:" = "تاريخ الخدمة:";
+"Time:" = "الوقت:";
+"Service provider name:" = "اسم مقدم الخدمة:";
+"Payment type:" = "طريقة الدفع:";
+"Total Service:" = "إجمالي الخدمات:";
+"Value added:" = "القيمة المضافة:";
+"Payment fees on service provider arrival:" = "رسوم الدفع عند وصول مقدم الخدمة:";
+"Payment fees on service provider arrival" = "رسوم الدفع عند وصول مقدم الخدمة:";
+
+"Required amount:" = "المبلغ المطلوب:";
+"Track Provider" = "تتبع مقدم الخدمة";
+"Chat" = "محادثة";
+"Bank Transfer" = "تحويل بنكي";
+"Bank transfer" = "تحويل بنكي";
+"ePay" = "دفع إلكتروني";
+"Cancel" = "إلغاء";
+"Another Date Suggestion" = "اقتراح موعد أخر";
+"Cancellation Reason" = "أسباب الرفض";
+"Pay and Rate" = "دفع وتقييم";
+
+"Certified" = "مرخص";
+"Discount" = "خصم";
+
+"Client Name:" = "اسم العميل:";
+"Client name:" = "اسم العميل:";
+
+"Detect Location" = "تحديد الموقع";
+"Rejected" = "مرفوض";
+"Confirm" = "تأكيد";
+"Reject" = "رفض";
+"Completed" = "مكتمل";
+"REQUEST ANOTHER APPOINTMENT" = "طلب موعد أخر";
+
+///////////////////////////////////////////////////////////////
+
+"Type a message" = "اكتب رسالة";
+"Now" = "الأن";
+
+"Check Your Internet Connection" = "تأكد من إتصالك بالانترنت";
+"Camera is not Available" = "الكاميرا غير متاحة";
+"Cancel" = "إلغاء";
+"Camera" = "الكاميرا";
+"Photo Library" = "مكتبة الصور";
+"Message" = "الرسالة";
+"Enter Message Body" = "اكتب نص الرسالة";
+"Enter your name" = "ادخل اسمك";
+"Enter your phone number" = "ادخل رقم جوالك";
+"Enter a valid phone number" = "ادخل رقم جوال صحيح";
+"Enter your email" = "ادخل بريدك الإلكتروني";
+"Enter a valid email" = "ادخل بريد إلكتروني صحيح";
+"Yes" = "نعم";
+"No" = "لا";
+"Delete from places?" = "حذف من الأماكن؟";
+
+
+"Delete from favourites?" = "حذف من المفضلة؟";
+"Please, Upload Verification Image" = "من فقضلك ارفق صصورة التوثيق";
+"Please, Enter National ID or residence number" = "ادخل الرقم القومي أو رقم الإقامة";
+"Articles" = "المقالات";
+"Provider" = "مقدم الخدمة";
+"Services" = "الخدمات";
+"Wallet" = "المحفظة";
+"Balances" = "الأرصدة";
+"Contact us" = "اتصل بنا";
+
+"About us" = "من نحن";
+"Terms and conditions" = "الشروط والأحكام";
+"Saved Locations" = "المواقع المحفوظة";
+"Favourites" = "المفضلة";
+"Account Statement" = "كشف حسابي";
+"Verification Request" = "طلب توثيق";
+"Notifications" = "الإشعارات";
+"Messages" = "الرسائل";
+"My Orders" = "طلباتي";
+"Orders" = "مطلوب";
+"Profile" = "بياناتي";
+"Login" = "تسجيل الدخول";
+"Welcome" = "مرحبًًا";
+"Enter activation code" = "ادخل كود التفعيل";
+
+"Enter old password" = "ادخل كلمة المرور القديمة";
+"Enter new password" = "ادخل كلمة المرور الجديدة";
+"Password must be at least 6 digits" = "كلمة المرور يجب أن تتكون من ٦ خانات على الأقل";
+"Enter new password confirmation" = "ادخل تأكيد كلمة المرور الجديدة";
+"Password doesn't match" = "كلمة المرور غير متطابقة";
+
+"Enter the code" = "ادخل الكود";
+"Enter your email" = "ادخل البريد الإلكتروني";
+"Enter valid email" = "ادخل بريد إلكتروني صحيح";
+
+
+"Reset password" = "استعادة كلمة المرور";
+"All" = "الكل";
+"Choose district" = "اختر المنطقة";
+"The Services you provide" = "الخدمات التي تقدمها";
+"Change Password" = "تغيير كلمة المرور";
+"Enter your national ID or residence number" = "ادخل الرقم القومي أو رقم الإقامة";
+"Identity number must be 10 digits" = "رقم الهوية يجب أن يتكون من ١٠ خانات" ;
+"Enter your name" = "ادخل الاسم";
+"Enter your phone number" = "ادخل رقم الجوال";
+"Phone number must be 10 digits and begin with 05" = "رقم الجوال يجب أن يبدأ ب٠٥ ويتكون من ١٠ خانات";
+"Enter your email" = "ادخل البريد الإلكتروني";
+"Enter valid email" = "ادخل بريد إلكتروني صحيح";
+"Enter your address" = "ادخل العنوان";
+"Choose your city" = "اختر المدينة";
+"Attach your profile photo" = "ارفق صورة الملف الشخصصي";
+"Attach your national ID or residence image" = "ارفق صورة الرقم القومي او رقم الإقامة";
+"No Cities" = "لا يوجد مدن";
+"No Districts" = "لا يوجد مناطق";
+"No Services" = "لا يوجد خدمات";
+"No Accounts" = "لا يوجد حسابات";
+"Choose account" = "اختر الحساب";
+"Choose city" = "اختر المدينة";
+"My info" = "بياناتي";
+"Clients comments" = "تعليقات العملاء";
+"Providers comments" = "تعليقات مقدمي الخدمة";
+"You must agree to all terms and conditions" = "يجب الموافقة على جميع الشروط والأحكام";
+"Enter Password" = "ادخل كلمة المرور";
+"Registration Done Successfully" = "تم التسجيل بنجاح";
+"Registration" = "تسجيل";
+"Enter your email or phone number" = "ادخل البريد الإلكتروني أو رقم الجوال";
+"Forget Password" = "نسيت كلمة المرور";
+"Login Done Successfully" = "تم تسجيل الدخول بنجاح";
+"Search for place" = "ابحث عن أماكن";
+"My Orders" = "طلباتي";
+"Current orders" = "الطلبات الحالية";
+"Previous orders" = "الطلبات السابقة";
+"Please enter your comment" = "ادخل تعليقك";
+"Please rate the service" = "قيم الخدمة";
+"Please enter your rejection reasons" = "اكتب أسباب رفض الطلب";
+"Enter your report" = "اكتب تقريرك";
+"Please enter your report" = "اكتب تقريرك";
+"Choose the new date" = "اختر تاريخ جديد";
+"Select date" = "اختر التاريخ";
+"Select time" = "اختر التوقيت";
+"Done" = "تم";
+"Enter money paid" = "ادخل المبلغ المدفوع";
+"Paid amount is less than required" = "المبلغ المدفوع أقل من المطلوب";
+"My Wallet" = "محفظتي";
+"My Points" = "نقاطي";
+"How do you want to refund?" = "كيف تريد استعادة المبلغ";
+"Please enter how do want to get refund" = "كيف تريد استعادة المبلغ";
+"Details and Ratings" = "التفاصيل والتقييمات";
+"Clients Comments" = "تعليقات العملاء";
+"Please, Login first" = "قم بتسجيل الدخول أولًا";
+"Balances" = "الأرصدة";
+"Pay the due" = "دفع المستحق";
+"Request the due" = "طلب المستحق";
+"Services Reservation" = "حجز الخدمات";
+"Choose your city" = "اختر المدينة";
+"Select your address" = "اختر العنوان";
+"Select reservation date" = "اختر تاريخ الحجز";
+"Select reservation time" = "اختر توقيت الحجز";
+"Choose service provider" = "اختر مقدم الخدمة";
+"Nearest" = "الأقرب";
+"Please, Upload Bank Transfer Image" = "ارفق صورة التحويل البنكي";
+"We will add" = "سيتم إضافة";
+"to your order" = "إلى طلبك";
+"Choose payment method" = "اختر طريقة الدفع";
+
+"Client Registration" = "إنشاء حساب عميل";
+"Provider Registration" = "إنشاء حساب مقدم خدمة";
+
+"Determine lacation and time" = "تحديد الموقع والوقت";
+"Choose service provider" = "اختر مقدم الخدمة";
+
+"Not Confirmed" = "غير مؤكد";
+"Delete from orders?" = "حذف من الطلبات";
+
+
+"Waiting" = "قيد الانتظار";
+"Cash Back" = "استرجاع الرصيد";
+"Convert To Points" = "تحويل إلى نقاط";
+
+"The rating was done before" = "تم التقييم من قبل";
+
+"Change Appointement" = "تغيير الموعد";
+
+
+"Receive the amount and complete the service" = "استلام المبلغ وإنهاء الخدمة";
+"FINISH SERVICE" = "إنهاء الخدمة";
+
+"Confirmed" = "مؤكد";
+
+"Processing" = "قيد التنفيذ";
+
+"Ended" = "منتهي";
+
+"This account is blocked" = "هذا الحساب محظور";
+
+"Choose your service city" = "اختر المدينة التي تقدم فيها الخدمة";
+
+"Choose your service districrs" = "اختر المناطق التي تقدم فيها الخدمة";
+
+"Choose services you provide" = "اختر الخدمات التي تقدمها";
+
+"You have already added the district" = "قمت بإضافة المنطقة بالفعل";
+
+"You have already added the service" = "قمت بإضافة الخدمة بالفعل";
+
+"Choose bank account" = "اختر الحساب البنكي";
+
+"Heighest rate" = "الأعلى تقييمًا";
+
+"Minutes" = "دقيقة";
+
+"Pending Admin Agreement" = "في انتظار موافقة الإدارة";
+
+"You have already added the service" = "تم إضافة الخدمة من قبل";
+
+"You have already added the district" = "تم إضافة هذه المنطقة من قبل";
+
+"Commission discount request" = "طلب خصم على إجمالي الطلب";
+
+"Choose discount percent" = "اختر نسبة الخصم";
+
+"REQUEST" = "طلب";
+
+"Payment completed" = "تم الدفع";
+
+"You have already added the city" = "لقد قمت بإضافة المدينة من قبل";
+
+"Choose area" = "اختر المنطقة";
+
+"Choose your work cities" = "اختر المدن التي تقدم بها الخدمة";
+
+"No Areas" = "لا يوجد مناطق";
+
+"Choose your area" = "اختر المنطقة";
+
+"Choose your service area" = "اختر المنطقة التي تقدم بها الخدمة";
+
+"Choose your service city" = "اختر المدينة التي تقدم بها الخدمة";
+
+"Choose city" = "اختر المدينة";
+
+"Chosen payment method will be: Pay When The Service Provider Arrives" = "سيتم اختيار طريقة الدفع عند وصول مقدم الخدمة";
+
+"Back to home screen" = "عودة للصفحة الرئيسية";
+
+"Choose location" = "اختر الموقع";
+
+"Or" = "أو";
+
+"Continue With Facebook" = "متابعة بحساب فيسبوك";
+
+"Canceled by client" = "ملغي من العميل";
+"Canceled by provider" = "ملغي من مقدم الخدمة";
+"Canceled by admin" = "ملغي من الإدارة";
+
+"Reservation Done Successfully" = "تمت عملية الحجز بنجاح";
+
+"Add profile photo (Optional)" = "إضافة صورة شخصية (اختياري)";
+
+"Add national ID or residence image (Optional)" = "إضافة صورة الهوية أو صورة الإقامة (إختياري)";
+
+"Add image" = "اضف صورة";
+
+"Library" = "المكتبة";
+
+"Complaint" = "شكوى";
+
+"Payment Failed" = "فشل عملية الدفع";
+
+"Please, Choose a service to reserve" = "من فضلك، اختر خدمة للحجز";
+
+"Total after discount" = "الإجمالي بعد الخصم";
+
+"How to use the wallet?" = "كيفية استخدام المحفظة";
+
+"km" = "ك.م";
+
+"Away" = "على بعد";
+
+"Canceled by provider (Satisfied)" = "ملغي من مقدم الخدمة (مقتنع)";
+
+"Salon Tech" = "صالون تك";
+
+"OK" = "موافق";
+
+"I have sensitive skin or hair loss" = "أعاني من حساسية في البشرة أو تساقط الشعر";
+
+"*I have sensitive skin or hair loss" = "*أعاني من حساسية في البشرة أو تساقط الشعر";
+
+"*I don't have sensitive skin or hair loss" = "*لا أعاني من حساسية في البشرة أو تساقط الشعر";
+
+"You can't select a previous date" = "لا يمكنك اختيار تاريخ سابق";
+
+"Waiting for client Rate" = "في انتظار تقييم العميل";
+"Waiting for provider Rate" = "في انتظار تقييم مقدم الخدمة";
+
+"Comment Objection" = "اعتراض على التعليق";
+
+"Please enter your objection" = "ادخل سبب الاعتراض";
+
+"Objection Reasons" = "أسباب الاعتراض";
+
+"Point" = "نقطة";
+
+"Delete Account" = "حذف الحساب";
+
+"delete_account" = "عملية حذف الحساب تعني إزالته بشكل دائم لذلك، تأكد من أنك تريد حذفه بالفعل";
+
+"Delete Your Account?" = "حذف حسابك؟";
+
+"You can pay twice for the same order" = "لا يمكنك الدفع مرتين لنفس الطلب";
+
+"Please go to Settings and turn on the location permissions" = "برجاء الذهاب إلى الإعدادات وتشغيل خدمة الموقع";
+
+"Settings" = "الإعدادات";
+
+"Alert" = "تنبيه";
+
+"track_info" = "للمتابعة اضغط على الدبوس";
+
+// iOS review fixes
+"Retry" = "إعادة المحاولة";
+"Loading payment methods" = "جارٍ تحميل وسائل الدفع";
+"Payment is unavailable. Please go back and try again." = "الدفع غير متاح حاليًا. ارجع للصفحة السابقة وحاول مرة أخرى.";
+"No payment methods available. Please try again." = "لا توجد وسائل دفع متاحة حاليًا. حاول مرة أخرى.";
+"Unable to load payment methods. Check your connection and try again." = "تعذر تحميل وسائل الدفع. تحقق من اتصال الإنترنت وحاول مرة أخرى.";
+"WhatsApp number is unavailable" = "رقم الواتساب غير متاح";
+"Unable to open WhatsApp" = "تعذر فتح الواتساب";

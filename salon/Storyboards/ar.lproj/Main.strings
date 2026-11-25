@@ -1,0 +1,165 @@
+
+/* Class = "UILabel"; text = "Balances"; ObjectID = "1Xp-yD-bgK"; */
+"1Xp-yD-bgK.text" = "Balances";
+
+/* Class = "UILabel"; text = "Contact us"; ObjectID = "1je-nT-frr"; */
+"1je-nT-frr.text" = "Contact us";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "1nR-E6-h9F"; */
+"1nR-E6-h9F.text" = "Notifications";
+
+/* Class = "UILabel"; text = "Saved locations"; ObjectID = "2uH-0O-1Nb"; */
+"2uH-0O-1Nb.text" = "Saved locations";
+
+/* Class = "UILabel"; text = "Articles"; ObjectID = "3a2-yE-5Ja"; */
+"3a2-yE-5Ja.text" = "Articles";
+
+/* Class = "UILabel"; text = "Home"; ObjectID = "3dY-h1-14l"; */
+"3dY-h1-14l.text" = "Home";
+
+/* Class = "UIButton"; normalTitle = "Show All"; ObjectID = "49r-Je-dN4"; */
+"49r-Je-dN4.normalTitle" = "Show All";
+
+/* Class = "UILabel"; text = " "; ObjectID = "5NX-A0-IYb"; */
+"5NX-A0-IYb.text" = " ";
+
+/* Class = "UIButton"; normalTitle = "AR"; ObjectID = "6Yz-Ck-ztA"; */
+"6Yz-Ck-ztA.normalTitle" = "AR";
+
+/* Class = "UILabel"; text = "Point"; ObjectID = "6bp-86-RfI"; */
+"6bp-86-RfI.text" = "Point";
+
+/* Class = "UISegmentedControl"; 7pF-hG-tad.segmentTitles[0] = "My Wallet"; ObjectID = "7pF-hG-tad"; */
+"7pF-hG-tad.segmentTitles[0]" = "My Wallet";
+
+/* Class = "UISegmentedControl"; 7pF-hG-tad.segmentTitles[1] = "My Points"; ObjectID = "7pF-hG-tad"; */
+"7pF-hG-tad.segmentTitles[1]" = "My Points";
+
+/* Class = "UILabel"; text = "Beauty Specialists"; ObjectID = "94R-f2-sYi"; */
+"94R-f2-sYi.text" = "Beauty Specialists";
+
+/* Class = "UIButton"; normalTitle = "Show All"; ObjectID = "95c-Uj-Jw5"; */
+"95c-Uj-Jw5.normalTitle" = "Show All";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "9IP-zm-O1g"; */
+"9IP-zm-O1g.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "Profile"; ObjectID = "9fB-sL-HDa"; */
+"9fB-sL-HDa.text" = "Profile";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "Aff-3Q-haF"; */
+"Aff-3Q-haF.normalTitle" = "Login";
+
+/* Class = "UITextField"; placeholder = "National ID or residence number"; ObjectID = "D7v-bn-6YO"; */
+"D7v-bn-6YO.placeholder" = "National ID or residence number";
+
+/* Class = "UILabel"; text = "Point"; ObjectID = "Dzs-gm-qvg"; */
+"Dzs-gm-qvg.text" = "Point";
+
+/* Class = "UIButton"; normalTitle = "Profile"; ObjectID = "Gxf-lN-cD8"; */
+"Gxf-lN-cD8.normalTitle" = "Profile";
+
+/* Class = "UILabel"; text = "Terms and conditions"; ObjectID = "J4e-lV-4zT"; */
+"J4e-lV-4zT.text" = "Terms and conditions";
+
+/* Class = "UITextField"; placeholder = "Phone"; ObjectID = "JwX-jD-opa"; */
+"JwX-jD-opa.placeholder" = "Phone";
+
+/* Class = "UILabel"; text = "Our services"; ObjectID = "K9o-jX-Pl1"; */
+"K9o-jX-Pl1.text" = "Our services";
+
+/* Class = "UILabel"; text = "My orders"; ObjectID = "LSM-n0-H4U"; */
+"LSM-n0-H4U.text" = "My orders";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "Ojz-mU-1kQ"; */
+"Ojz-mU-1kQ.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "Oqt-id-nqR"; */
+"Oqt-id-nqR.normalTitle" = "Send";
+
+/* Class = "UITextField"; placeholder = "Search here"; ObjectID = "TDe-He-Zkv"; */
+"TDe-He-Zkv.placeholder" = "Search here";
+
+/* Class = "UILabel"; text = "Logout"; ObjectID = "TWo-Ul-X1i"; */
+"TWo-Ul-X1i.text" = "Logout";
+
+/* Class = "UILabel"; text = "Add national identity or residence image"; ObjectID = "W09-DW-HkM"; */
+"W09-DW-HkM.text" = "Add national identity or residence image";
+
+/* Class = "UITextField"; placeholder = "Name"; ObjectID = "WC1-SH-G9O"; */
+"WC1-SH-G9O.placeholder" = "Name";
+
+/* Class = "UILabel"; text = "Located Address"; ObjectID = "XcV-JF-Tgo"; */
+"XcV-JF-Tgo.text" = "Located Address";
+
+/* Class = "UILabel"; text = "  "; ObjectID = "YfG-wV-dKu"; */
+"YfG-wV-dKu.text" = "  ";
+
+/* Class = "UILabel"; text = "Favourites"; ObjectID = "ZcG-ZF-gVC"; */
+"ZcG-ZF-gVC.text" = "Favourites";
+
+/* Class = "UILabel"; text = "About us"; ObjectID = "aUX-LR-WCr"; */
+"aUX-LR-WCr.text" = "About us";
+
+/* Class = "UILabel"; text = "Address"; ObjectID = "b8r-0t-EVu"; */
+"b8r-0t-EVu.text" = "Address";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "eDO-hx-APf"; */
+"eDO-hx-APf.text" = "0";
+
+/* Class = "UITextView"; text = "Message"; ObjectID = "eJM-no-c0Z"; */
+"eJM-no-c0Z.text" = "Message";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "eVa-Jq-2Pv"; */
+"eVa-Jq-2Pv.text" = "0";
+
+/* Class = "UILabel"; text = "Articles"; ObjectID = "fiv-Kn-lZW"; */
+"fiv-Kn-lZW.text" = "Articles";
+
+/* Class = "UIButton"; normalTitle = "Show All"; ObjectID = "gUA-CZ-zC5"; */
+"gUA-CZ-zC5.normalTitle" = "Show All";
+
+/* Class = "UILabel"; text = "Saved Locations"; ObjectID = "hUS-x3-Rba"; */
+"hUS-x3-Rba.text" = "Saved Locations";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "iRM-d7-sci"; */
+"iRM-d7-sci.text" = "Notifications";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "k61-jE-yHX"; */
+"k61-jE-yHX.text" = "Email";
+
+/* Class = "UILabel"; text = "Verification request"; ObjectID = "m48-Sp-YMX"; */
+"m48-Sp-YMX.text" = "Verification request";
+
+/* Class = "UILabel"; text = "Welcome"; ObjectID = "m5A-qM-4KA"; */
+"m5A-qM-4KA.text" = "Welcome";
+
+/* Class = "UILabel"; text = "Account statement"; ObjectID = "mnz-Re-lOX"; */
+"mnz-Re-lOX.text" = "Account statement";
+
+/* Class = "UILabel"; text = "Chats"; ObjectID = "o5r-ch-m88"; */
+"o5r-ch-m88.text" = "Chats";
+
+/* Class = "UITextField"; placeholder = "Search here"; ObjectID = "tBn-k8-8H9"; */
+"tBn-k8-8H9.placeholder" = "Search here";
+
+/* Class = "UILabel"; text = " "; ObjectID = "u5v-5A-hRL"; */
+"u5v-5A-hRL.text" = " ";
+
+/* Class = "UILabel"; text = "Phone number"; ObjectID = "ufx-9i-wPN"; */
+"ufx-9i-wPN.text" = "Phone number";
+
+/* Class = "UIButton"; normalTitle = "Choose"; ObjectID = "vgo-mM-Wa0"; */
+"vgo-mM-Wa0.normalTitle" = "Choose";
+
+/* Class = "UILabel"; text = "  "; ObjectID = "xWs-hu-GYt"; */
+"xWs-hu-GYt.text" = "  ";
+
+/* Class = "UILabel"; text = "  "; ObjectID = "xcT-6b-wGB"; */
+"xcT-6b-wGB.text" = "  ";
+
+/* Class = "UILabel"; text = "Total balance:"; ObjectID = "zCH-li-W8J"; */
+"zCH-li-W8J.text" = "Total balance:";
+
+/* Class = "UILabel"; text = "Total points:"; ObjectID = "zS7-qR-NUa"; */
+"zS7-qR-NUa.text" = "Total points:";
